@@ -1,4 +1,8 @@
-#!!!HELP!!! THIS PROJECT NEEDS DEVELOPERS !!!HELP!!! 
+The vsClojure org on github appears to be abandoned, as does the vsClojure project.  
+I've tried to find the original developers so we can get the link to the defunct chat website taken off, to no avail.
+
+Jon Mis, where are you.
+
 
 #vsClojure
 
@@ -37,7 +41,8 @@ https://github.com/vsClojure/vsClojure
 
 ##Discussion
 
-http://gplus.to/clojureclr
+The site gplus.to appears to now hose malicious content.
+
 \#vsclojure on irc.freenode.net
 
 ##Installing
